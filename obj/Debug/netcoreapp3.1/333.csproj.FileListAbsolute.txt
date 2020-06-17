@@ -1,0 +1,13 @@
+C:\Users\Kailane\Desktop\CODE DOJO2\obj\Debug\netcoreapp3.1\333.csprojAssemblyReference.cache
+C:\Users\Kailane\Desktop\CODE DOJO2\obj\Debug\netcoreapp3.1\333.AssemblyInfoInputs.cache
+C:\Users\Kailane\Desktop\CODE DOJO2\obj\Debug\netcoreapp3.1\333.AssemblyInfo.cs
+C:\Users\Kailane\Desktop\CODE DOJO2\obj\Debug\netcoreapp3.1\333.csproj.CoreCompileInputs.cache
+C:\Users\Kailane\Desktop\CODE DOJO2\bin\Debug\netcoreapp3.1\333.exe
+C:\Users\Kailane\Desktop\CODE DOJO2\bin\Debug\netcoreapp3.1\333.deps.json
+C:\Users\Kailane\Desktop\CODE DOJO2\bin\Debug\netcoreapp3.1\333.runtimeconfig.json
+C:\Users\Kailane\Desktop\CODE DOJO2\bin\Debug\netcoreapp3.1\333.runtimeconfig.dev.json
+C:\Users\Kailane\Desktop\CODE DOJO2\bin\Debug\netcoreapp3.1\333.dll
+C:\Users\Kailane\Desktop\CODE DOJO2\bin\Debug\netcoreapp3.1\333.pdb
+C:\Users\Kailane\Desktop\CODE DOJO2\obj\Debug\netcoreapp3.1\333.dll
+C:\Users\Kailane\Desktop\CODE DOJO2\obj\Debug\netcoreapp3.1\333.pdb
+C:\Users\Kailane\Desktop\CODE DOJO2\obj\Debug\netcoreapp3.1\333.genruntimeconfig.cache
